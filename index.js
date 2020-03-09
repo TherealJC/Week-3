@@ -43,6 +43,11 @@ console.log(ys);
 //Post Increment "x++" will read and display the x first, THEN add +1 after the code has been displayed
 //Pre Increment "++x" will read the +1 BEFORE displaying X, so the equation will be done before x is displayed.
 
+// I <= 10; Means it will keep adding +1 until NO GREATER THAN 10
+for(let i = 0; i <= 10; i++){
+console.log(i);
+};
+
 
 
 
