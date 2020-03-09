@@ -48,18 +48,17 @@ for(let i = 0; i <= 10; i++){
 console.log(i);
 };
 
+//Unary, Binary Operators
+let a = 1;
+a = -a;
+(a);     //-1, Here the operator is unary minus
 
+const firstword = "Hello";
+const secondword = "World";
 
-
-
-
-
-
-
-
-
-
-
+console.log(firstword + secondword);
+console.log(firstword); (secondword);
+console.log(` ${firstword} ${secondword}`);
 
 
 //Addition Operation Examples
