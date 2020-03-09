@@ -60,6 +60,17 @@ console.log(firstword + secondword);
 console.log(firstword); (secondword);
 console.log(` ${firstword} ${secondword}`);
 
+//Numbers as a string
+console.log(10 + 5);
+console.log(10 + '5');
+console.log('10' + 5);
+console.log(10 + 10 + '5');
+console.log('10' + '10');
+//what about
+console.log("10" + "10");
+//Is there no difference ?????
+
+
 
 //Addition Operation Examples
 
