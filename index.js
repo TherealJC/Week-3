@@ -2,13 +2,26 @@
   let x = 10;
   let y = 5;
   console.log(x + y);
-
+//Pre Increment
 console.log(x);
 console.log(++x);
 console.log(x);
 console.log(++x)
 console.log(x);
 console.log(++x)
+console.log(x)
+console.log(++x)
+//Post Increment
+console.log(x);
+console.log(x++);
+console.log(x);
+console.log(x++);
+console.log(x);
+console.log(x++);
+console.log(x);
+
+console.log(x)
+console.log(x++)
 console.log(x)
 console.log(++x)
 
@@ -19,6 +32,11 @@ console.log(++x)
 
 
 
+//Addition Operation Examples
+
+//   console.log(x + y);
+//   let x = 10;
+//   let y = 5;
 
 //   let x = 10;
 //   let y = 5;
@@ -31,8 +49,8 @@ console.log(++x)
 // Increment Operator (++) increments the variable value by one
 // syntax: ++x (or) x++ 
 
-// Pre-Increment: Increase by one, then return x
-// Post-Increment: Returns x, then increase by one
+// Pre-Increment: Increments by one, then return x
+// Post-Increment: Returns x, then increment by one
 
 //These next statements are made too difficult to understand, so i really dont know
 // Pre Increment: Increments the value and execute the expression/ statement
