@@ -40,7 +40,8 @@ ys = xs--;
 console.log(xs);
 console.log(ys);
 
-//
+//Post Increment "x++" will read and display the x first, THEN add +1 after the code has been displayed
+//Pre Increment "++x" will read the +1 BEFORE displaying X, so the equation will be done before x is displayed.
 
 
 
