@@ -1,5 +1,5 @@
 //Addition Operation Examples
-  let x = 10;
+  let x = 0;
   let y = 5;
   console.log(x + y);
 //Pre Increment
@@ -20,10 +20,34 @@ console.log(x);
 console.log(x++);
 console.log(x);
 
-console.log(x)
-console.log(x++)
-console.log(x)
-console.log(++x)
+//Examples
+let xs = 10
+let ys = xs;
+//Pre Increment Example
+ys = ++xs;
+console.log(xs);
+console.log(ys);
+//Post Increment Example
+ys = xs++;
+console.log(xs);
+console.log(ys);
+//Pre Decrement Example
+ys = --xs;
+console.log(xs);
+console.log(ys);
+//Post Decrement Example
+ys = xs--;
+console.log(xs);
+console.log(ys);
+
+//
+
+
+
+
+
+
+
 
 
 
